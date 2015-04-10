@@ -1,0 +1,18 @@
+{
+  "name": "example-browserify",
+  "version": "0.0.0",
+  "authors": [
+    "kenta.nakai <kenta.nakai@urouro.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "example-browserify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "*",
+    "gulp": "*",
+    "bower": "*",
+    "uniq": "~1.0.1",
+    "vinyl-source-stream": "~1.1.0",
+    "gulp-uglify": "~1.1.0",
+    "vinyl-buffer": "~1.0.0"
+  }
+}
